@@ -33,9 +33,10 @@ export default function RootLayout({
           toastOptions={{
             duration: 3000,
             style: {
-              background: "#15120f",
-              color: "#fff",
-              borderRadius: "0.5rem",
+              background: "#1a1a1a",
+              color: "#e5e5e5",
+              borderRadius: "0.75rem",
+              border: "1px solid #2a2a2a",
             },
           }}
         />
