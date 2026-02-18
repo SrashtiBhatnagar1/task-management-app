@@ -8,6 +8,8 @@ This is a complete task management system where users can organize their work wi
 
 The app handles everything from user authentication to real-time task updates, all wrapped in a responsive design that works on any device. It's the kind of tool you'd actually want to use daily.
 
+Here is a working prototype of it - https://youtu.be/EL4OQANDi1g
+
 ## ✨ Key Features
 
 ### 🔐 Authentication & Security
